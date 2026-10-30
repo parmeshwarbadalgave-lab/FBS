@@ -1,0 +1,1 @@
+#3. A farmer has a field which is half in circle share and rest rectangle. He needs to do fencing 
