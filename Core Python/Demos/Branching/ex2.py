@@ -1,12 +1,12 @@
-year = int(input("Enter a year: "))
+marks = int(input('Enter your marks:'))
 
-if year % 400 == 0:
-    print("Leap Year")
-elif year % 100 == 0:
-    print("Not a Leap Year")
-elif year % 4 == 0:
-    print("Leap Year")
-elif:
-    print("Not a Leap Year")
+if(marks > 70):
+    print('Distingguish')
+
+elif(marks <= 70 and marks >= 50):
+    print('Pass')
 else:
-  print("fail")
+    print('Fail')
+
+
+    
